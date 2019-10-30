@@ -9,6 +9,7 @@
 }
 
 .button {
+  cursor: pointer;
   display: table-cell;
   border: 1px solid black;
   border-top-left-radius: 15px;
