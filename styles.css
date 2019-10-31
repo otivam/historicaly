@@ -8,7 +8,7 @@
   display:table-row;
 }
 
-.button,.Search {
+.button {
   cursor: pointer;
   display: table-cell;
   border: 1px solid black;
